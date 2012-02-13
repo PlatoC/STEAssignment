@@ -1,0 +1,2 @@
+A program (A) that tests another program (B) designed to accept a N by M grid of numbers and determines if all the rows and all the columns sum up to the same value.
+Works as the document provided
